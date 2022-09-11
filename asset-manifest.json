@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shopping-cart-react-ts-app/static/css/main.29cf1755.css",
-    "main.js": "/shopping-cart-react-ts-app/static/js/main.7ad18b88.js",
-    "static/js/787.8fcb9ccc.chunk.js": "/shopping-cart-react-ts-app/static/js/787.8fcb9ccc.chunk.js",
-    "index.html": "/shopping-cart-react-ts-app/index.html",
-    "main.29cf1755.css.map": "/shopping-cart-react-ts-app/static/css/main.29cf1755.css.map",
-    "main.7ad18b88.js.map": "/shopping-cart-react-ts-app/static/js/main.7ad18b88.js.map",
-    "787.8fcb9ccc.chunk.js.map": "/shopping-cart-react-ts-app/static/js/787.8fcb9ccc.chunk.js.map"
+    "main.css": "/Nagarehazh/shopping-cart-react-ts-app/static/css/main.29cf1755.css",
+    "main.js": "/Nagarehazh/shopping-cart-react-ts-app/static/js/main.1f0c3de9.js",
+    "static/js/787.8fcb9ccc.chunk.js": "/Nagarehazh/shopping-cart-react-ts-app/static/js/787.8fcb9ccc.chunk.js",
+    "index.html": "/Nagarehazh/shopping-cart-react-ts-app/index.html",
+    "main.29cf1755.css.map": "/Nagarehazh/shopping-cart-react-ts-app/static/css/main.29cf1755.css.map",
+    "main.1f0c3de9.js.map": "/Nagarehazh/shopping-cart-react-ts-app/static/js/main.1f0c3de9.js.map",
+    "787.8fcb9ccc.chunk.js.map": "/Nagarehazh/shopping-cart-react-ts-app/static/js/787.8fcb9ccc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29cf1755.css",
-    "static/js/main.7ad18b88.js"
+    "static/js/main.1f0c3de9.js"
   ]
 }
