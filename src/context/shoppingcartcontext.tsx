@@ -22,6 +22,7 @@ type ShoppingCartContext = {
 	cartItems: CartItem[];
 };
 
+// eslint-disable-next-line @typescript-eslint/no-redeclare
 const ShoppingCartContext = createContext({} as ShoppingCartContext);
 
 export function useShoppingCart() {
