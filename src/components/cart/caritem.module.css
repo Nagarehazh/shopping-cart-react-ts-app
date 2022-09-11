@@ -1,0 +1,35 @@
+.cartContainer {
+	display: flex;
+	max-width: 600px;
+	margin: 0 0 0 auto;
+	width: 500px;
+	height: 200px;
+	gap: 10px;
+	border: none;
+
+	box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+	background-color: whitesmoke;
+}
+
+.cartItemInfo {
+	margin: auto 0 auto 0;
+}
+
+.cartItemPrice {
+	margin-bottom: 20px;
+}
+
+.cartItemTotal {
+	font-size: 20px;
+	justify-content: flex-end;
+}
+
+.cartItemName {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.valueCartInfo {
+	display: flex;
+	align-items: center;
+	gap: 90px;
+}

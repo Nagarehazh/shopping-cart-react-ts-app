@@ -1,0 +1,12 @@
+.storeGrid {
+	display: grid;
+	padding: 50px;
+	max-width: 1280px;
+	min-width: 480px;
+	margin: auto;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-gap: 2.5rem;
+}
+
+.storeGridItem {
+}
